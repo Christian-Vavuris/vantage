@@ -16,7 +16,7 @@ const SUGGESTED_QUESTIONS = [
   "Vantage is hiring for a recently formed sales team with large, undefined territories. How does Christian's experience at BRM map to that?",
   "Walk me through the Gemini expansion at Taxbit — how does that map to the account-growth motion Vantage needs?",
   "Vantage's buyers span engineering and the C-suite. How does Christian earn credibility across both in the same deal?",
-  "Why does Vantage's mission — cloud cost transparency for engineering teams — resonate with Christian personally?",
+  "How does Christian use cross-platform intelligence to win new logos and expand existing relationships — and what's an example of him doing that in the past?",
 ];
 
 type DisplayMessage = { role: "user" | "assistant"; content: string };
