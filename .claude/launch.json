@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "node",
+        "node_modules/next/dist/bin/next",
+        "dev"
+      ],
+      "port": 3000
+    }
+  ]
+}
